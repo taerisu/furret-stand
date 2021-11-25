@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&display=swap');
+
+body {
+	font-family: 'Outfit', sans-serif;
+	color: #ffffff;
+	background-color: #71aaff;
+
+	margin: 0;
+}
+
+.game {
+	min-height: 100vh;
+
+	text-align: center;
+
+	display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.furret {
+	max-width: 95vw;
+}
