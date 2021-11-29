@@ -8,4 +8,4 @@
 
 ### 19 July 2019 - 19 November 2021
 
-![Escalator image](assets\escalator.jpg)
+![Escalator image](assets/escalator.jpg)
