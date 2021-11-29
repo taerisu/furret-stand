@@ -30,6 +30,6 @@
   ],
   "theme_color": "#71aaff",
   "background_color": "#71aaff",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientaion": "portrait"
 }
